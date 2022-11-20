@@ -1,0 +1,16 @@
+2022-11-19 21:10:10,643 INFO Hippodrome [main] Horse created. Name Буцефал, speed 2.4
+2022-11-19 21:10:10,647 INFO Hippodrome [main] Horse created. Name Туз Пик, speed 2.5
+2022-11-19 21:10:10,648 INFO Hippodrome [main] Horse created. Name Зефир, speed 2.6
+2022-11-19 21:10:10,648 INFO Hippodrome [main] Horse created. Name Пожар, speed 2.7
+2022-11-19 21:10:10,648 INFO Hippodrome [main] Horse created. Name Лобстер, speed 2.8
+2022-11-19 21:10:10,649 INFO Hippodrome [main] Horse created. Name Пегас, speed 2.9
+2022-11-19 21:10:10,650 INFO Hippodrome [main] Horse created. Name Вишня, speed 3.0
+2022-11-19 21:10:10,650 INFO Hippodrome [main] Create hippodrome. Horses 7
+2022-11-19 21:10:10,651 INFO Main [main] Hippodrome added. Numbers of horse: 7
+2022-11-19 21:10:30,732 INFO Main [main] Hippodrome finished. Winner: Вишня
+2022-11-19 21:36:58,816 INFO Hippodrome [main] Horse created. Name test, speed 20.0
+2022-11-19 21:36:58,856 INFO Hippodrome [main] Horse created. Name test, speed 30.0
+2022-11-19 21:36:58,864 INFO Hippodrome [main] Horse created. Name test, speed 40.0
+2022-11-19 21:36:58,871 INFO Hippodrome [main] Horse created. Name test, speed 50.0
+2022-11-19 21:45:01,263 INFO Hippodrome [main] Create hippodrome. Horses 50
+2022-11-19 21:45:24,440 INFO Hippodrome [main] Create hippodrome. Horses 50
